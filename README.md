@@ -28,9 +28,11 @@ ___
     node -v
     npm -v
 
-**3. Now download the source code locally and run.** <!-- npx create-react-app my-app -->
+**3. Now download the source code locally and run.** 
 
     npm start 
+
+<!--To create a new react app:- npx create-react-app my-app -->
 
 ## **Development tools**
 ___
@@ -57,4 +59,6 @@ ___
 
 ## **Screenshots**
 ___
-![Home]()
+![Home](https://raw.githubusercontent.com/ShuklaRishi/sample_readme/master/Home.png?token=GHSAT0AAAAAAB6IHTG3JS62T335P3TVKRV2Y64ZOZA)
+![Coins](https://raw.githubusercontent.com/ShuklaRishi/sample_readme/master/2.png?token=GHSAT0AAAAAAB6IHTG2IZMC7ZUOXZTSBLNAY64ZROQ)
+![Chart](https://raw.githubusercontent.com/ShuklaRishi/sample_readme/master/3.png?token=GHSAT0AAAAAAB6IHTG2MDVAYNFVVONK4NX6Y64ZSAA)
