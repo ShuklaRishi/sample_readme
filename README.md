@@ -59,6 +59,6 @@ ___
 
 ## **Screenshots**
 ___
-![Home](https://raw.githubusercontent.com/ShuklaRishi/sample_readme/master/Home.png?token=GHSAT0AAAAAAB6IHTG3JS62T335P3TVKRV2Y64ZOZA)
-![Coins](https://raw.githubusercontent.com/ShuklaRishi/sample_readme/master/2.png?token=GHSAT0AAAAAAB6IHTG2IZMC7ZUOXZTSBLNAY64ZROQ)
-![Chart](https://raw.githubusercontent.com/ShuklaRishi/sample_readme/master/3.png?token=GHSAT0AAAAAAB6IHTG2MDVAYNFVVONK4NX6Y64ZSAA)
+![Home](Home.png)
+![Coins](2.png)
+![Chart](3.png)
